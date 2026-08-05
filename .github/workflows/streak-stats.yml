@@ -1,0 +1,17 @@
+name: Generate Streak Stats
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # roda a cada 6 horas
+  workflow_dispatch:         # permite rodar manualmente também
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate streak stats image
+        uses: DenverCoder1/github-readme-streak-stats@master
+        with:
+          user_id: ${{ secrets.STREAK_USER_ID }}
+        env:
+          GH_TOKEN: ${{ secrets.STREAK_TOKEN }}
