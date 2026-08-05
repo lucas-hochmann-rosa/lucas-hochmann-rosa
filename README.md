@@ -36,7 +36,7 @@ Gosto de desenvolver soluções que saem do papel e resolvem problemas reais, se
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-      <img src="./profile/streak.svg" alt="GitHub Streak" width="700" />
+      <img src="./profile/streak.svg" alt="GitHub Streak" width="700" height="200" />
   </a>
 </p>
 
