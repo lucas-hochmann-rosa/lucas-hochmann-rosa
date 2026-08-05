@@ -36,7 +36,7 @@ Gosto de desenvolver soluções que saem do papel e resolvem problemas reais, se
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=lucas-hochmann-rosa&theme=github-dark-blue&locale=pt_BR&hide_border=false&card_height=220&card_width=700" alt="GitHub Streak" width="700" height="220" />
+      <img src="./profile/streak.svg" alt="GitHub Streak" width="700" />
   </a>
 </p>
 
